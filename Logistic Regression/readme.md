@@ -1,6 +1,6 @@
 # Logistic Regression
 
-Logistic Regression is a type of classification technique contrary to its name.  
+Logistic Regression is a type of classification technique contrary to its name. Here I have made a simple perceptron.   
 
 This is a code implementing Logistic Regression on a titanic data set. The predictions are binary classified as 1 (survived) and 0 (not survived).  
 
