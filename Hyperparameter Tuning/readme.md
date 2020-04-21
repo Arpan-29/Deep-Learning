@@ -1,3 +1,3 @@
-## Hyperparameter Tuning
+# Hyperparameter Tuning
 
-* Initialization
+* ## Initialization
