@@ -1,1 +1,3 @@
 # Regularization
+
+![](image.png)
