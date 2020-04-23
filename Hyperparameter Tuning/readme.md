@@ -1,3 +1,4 @@
 # Hyperparameter Tuning
 
 * ## Initialization
+* ## Regularization
