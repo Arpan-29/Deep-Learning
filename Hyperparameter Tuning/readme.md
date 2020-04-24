@@ -2,3 +2,4 @@
 
 * ## Initialization
 * ## Regularization
+* ## Gradient Checking
