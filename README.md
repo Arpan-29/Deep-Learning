@@ -6,3 +6,5 @@ Here are all the codes for Machine Learning techniques I have learned.
 * **Deep Neural Network**  
 * **Hyperparameter Tuning**  
    * Initialization
+   * Regularization
+   * Gradient Checking
