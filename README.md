@@ -8,3 +8,5 @@ Here are all the codes for Machine Learning techniques I have learned.
    * Initialization
    * Regularization
    * Gradient Checking
+* **Optimization**  
+   * Gradient Descent, gradient descent with momentum and adam optimization techniques implemented
