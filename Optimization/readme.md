@@ -6,12 +6,15 @@
 
 * ### Gradient Descent
   
-  ![](images/11.png) ![](images/12.png)
+  ![](images/11.png) ![](images/12.png)  
+  It had accuracy of **79.66%**.
   
 * ### Gradient Descent with Momentum
   
-  ![](images/21.png) ![](images/22.png)
+  ![](images/21.png) ![](images/22.png)  
+  It had accuracy of **79.66%**.
 
-* ### Adam (Adaptive Momentum)
+* ### Adam (Adaptive Momentum)  
 
-  ![](images/31.png) ![](images/32.png)
+  ![](images/31.png) ![](images/32.png)  
+  It had accuracy of **94%**.
