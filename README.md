@@ -1,5 +1,5 @@
-# Machine-Learning
-Here are all the codes for Machine Learning techniques I have learned.
+# Deep Learning
+Here are all the codes for Deep Learning techniques I have learned.
 
 * ## Logistic Regression    
    * Made some functions like **sigmoid, initialize** with zeros, **propagate, optimize** using gradient descent, **predict** binary classified output and the **model** function**.
