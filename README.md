@@ -17,4 +17,6 @@ Here are all the codes for Deep Learning techniques I have learned.
       * Dropout  
    * **Gradient Checking**
 * ## Optimization    
-   * **Gradient Descent**, gradient descent with **momentum** and **adam** optimization techniques implemented
+   * **Gradient Descent**, gradient descent with **momentum** and **adam** optimization techniques implemented  
+* ## TensorFlow
+   * **TensorFlow** model for predicting hand numbers from images
